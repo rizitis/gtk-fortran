@@ -1,0 +1,5 @@
+PRGNAM="gtk-fortran"
+VERSION="4.3.0"
+HOMEPAGE="https://github.com/vmagnin/gtk-fortran/wiki"
+REQUIRES=""
+
